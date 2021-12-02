@@ -5,7 +5,7 @@ Advent of code 2021 in Python 🎄 🎅
 | Day   |      Language      |  Part1 | Part2 |
 |:----------:|:-------------:|:------:|:------:|
 | #1 |  [Python](./01_py/) | :heavy_check_mark: | :heavy_check_mark: |
-| #2 | - | :x: | :x: |
+| #2 |  [Python](./02_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #3 | - | :x: | :x: |
 | #4 | - | :x: | :x: |
 | #5 | - | :x: | :x: |
