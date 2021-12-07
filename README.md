@@ -9,8 +9,8 @@ Advent of code 2021 in Python 🎄 🎅
 | #3 |  [Python](./03_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #4 |  [Python](./04_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #5 |  [Python](./05_py/) | :heavy_check_mark: | :heavy_check_mark: |
-| #6 | - | :x: | :x: |
-| #7 | - | :x: | :x: |
+| #6 |  [Python](./05_py/) | :heavy_check_mark: | :heavy_check_mark: |
+| #7 |  [Python](./05_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #8 | - | :x: | :x: |
 | #9 | - | :x: | :x: |
 | #10 | - | :x: | :x: |
