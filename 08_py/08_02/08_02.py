@@ -30,17 +30,6 @@ def findWithSpecificLength(allValues, length):
 
     return chars
 
-outputValues = []
-inputValues = []
-
-results = {"a": "x", 
-           "b": "x",
-           "c": "x",
-           "d": "x",
-           "e": "x",
-           "f": "x",
-           "g": "x"}
-
 with open('input.txt') as f:
     lines = f.readlines()
 
@@ -115,4 +104,3 @@ for line in lines:
         print(singleValue)
 
 print(sum)
-print("Done")
