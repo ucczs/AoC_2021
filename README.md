@@ -18,8 +18,8 @@ Advent of code 2021 in Python 🎄 🎅
 | #12 |  [Python](./12_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #13 |  [Python](./13_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #14 |  [Python](./14_py/) | :heavy_check_mark: | :heavy_check_mark: |
-| #15 | - | :x: | :x: |
-| #16 | - | :x: | :x: |
+| #15 |  [Python](./15_py/) | :heavy_check_mark: | :heavy_check_mark: |
+| #16 |  [Python](./16_py/) | :heavy_check_mark: | :heavy_check_mark: |
 | #17 | - | :x: | :x: |
 | #18 | - | :x: | :x: |
 | #19 | - | :x: | :x: |
